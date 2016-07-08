@@ -1,2 +1,6 @@
-# hello-world
-Test description
+
+def spam():
+    eggs = 12
+    return eggs
+        
+print spam()
